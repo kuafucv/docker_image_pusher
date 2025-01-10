@@ -15,4 +15,5 @@
 # grafana/grafana
 # prom/mysqld-exporter
 # feiyu563/prometheus-alert:v4.9.1
-farerboy/dm8_single:dm8_20230808_rev197096_x86_rh6_64
+# farerboy/dm8_single:dm8_20230808_rev197096_x86_rh6_64
+docker.io/foamzou/melody:latest
