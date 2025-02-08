@@ -20,4 +20,5 @@
 # clickhouse:24.8.12.28
 # apache/doris:doris-fe-2.1.7
 # apache/doris:doris-be-2.1.7
-apache/doris:doris-all-in-one-2.1.0
+# apache/doris:doris-all-in-one-2.1.0
+mongo:8.0.5-rc1
