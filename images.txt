@@ -28,4 +28,7 @@
 # farerboy/rabbitmq:3.9.9
 # docker.elastic.co/elasticsearch/elasticsearch:7.17.20
 # blackcandy/blackcandy
-gitlab/gitlab-ce:14.6.1-ce.0
+# gitlab/gitlab-ce:14.6.1-ce.0
+harisekhon/hbase:2.6
+pinpointdocker/pinpoint-collector:3.0.0
+pinpointdocker/pinpoint-web:3.0.0
