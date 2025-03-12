@@ -36,8 +36,10 @@
 # zookeeper:3.4.13
 # pinpointdocker/pinpoint-flink:latest
 # redis:7.0.14
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui:10.1.0
-apache/skywalking-oap-server:9.6.0
-apache/skywalking-ui:9.6.0
-elasticsearch:7.17.3
+# apache/skywalking-oap-server:10.1.0
+# apache/skywalking-ui:10.1.0
+# apache/skywalking-oap-server:9.6.0
+# apache/skywalking-ui:9.6.0
+# elasticsearch:7.17.3
+apache/skywalking-oap-server:9.4.0
+apache/skywalking-ui:9.4.0
