@@ -29,6 +29,10 @@
 # docker.elastic.co/elasticsearch/elasticsearch:7.17.20
 # blackcandy/blackcandy
 # gitlab/gitlab-ce:14.6.1-ce.0
-harisekhon/hbase:2.6
-pinpoint/pinpoint-collector:3.0.0
-pinpoint/pinpoint-web:3.0.0
+pinpointdocker/pinpoint-hbase:latest
+mysql:8.0
+pinpointdocker/pinpoint-web:latest
+pinpointdocker/pinpoint-collector:latest
+zookeeper:3.4.13
+pinpointdocker/pinpoint-flink:latest
+redis:7.0.14
