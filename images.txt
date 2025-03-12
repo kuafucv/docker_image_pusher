@@ -29,10 +29,15 @@
 # docker.elastic.co/elasticsearch/elasticsearch:7.17.20
 # blackcandy/blackcandy
 # gitlab/gitlab-ce:14.6.1-ce.0
-pinpointdocker/pinpoint-hbase:latest
-mysql:8.0
-pinpointdocker/pinpoint-web:latest
-pinpointdocker/pinpoint-collector:latest
-zookeeper:3.4.13
-pinpointdocker/pinpoint-flink:latest
-redis:7.0.14
+# pinpointdocker/pinpoint-hbase:latest
+# mysql:8.0
+# pinpointdocker/pinpoint-web:latest
+# pinpointdocker/pinpoint-collector:latest
+# zookeeper:3.4.13
+# pinpointdocker/pinpoint-flink:latest
+# redis:7.0.14
+apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0
+apache/skywalking-oap-server:9.6.0
+apache/skywalking-ui:9.6.0
+elasticsearch:7.17.3
