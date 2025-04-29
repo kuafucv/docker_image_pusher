@@ -43,5 +43,6 @@
 # elasticsearch:7.17.3
 # apache/skywalking-oap-server:9.4.0#
 # apache/skywalking-ui:9.4.0
-ruimarinho/openvpn-monitor
-kylemanna/openvpn
+# ruimarinho/openvpn-monitor
+# kylemanna/openvpn
+awalach/openvpn-web-ui
