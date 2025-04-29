@@ -45,4 +45,5 @@
 # apache/skywalking-ui:9.4.0
 # ruimarinho/openvpn-monitor
 # kylemanna/openvpn
-awalach/openvpn-web-ui
+# awalach/openvpn-web-ui
+d3vilh/openvpn-ui
