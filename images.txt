@@ -47,3 +47,4 @@
 # kylemanna/openvpn
 # awalach/openvpn-web-ui
 d3vilh/openvpn-ui
+yyxx/openvpn:v1.1.7
