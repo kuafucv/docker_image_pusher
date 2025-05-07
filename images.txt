@@ -46,5 +46,6 @@
 # ruimarinho/openvpn-monitor
 # kylemanna/openvpn
 # awalach/openvpn-web-ui
-d3vilh/openvpn-ui
-yyxx/openvpn:v1.1.7
+# d3vilh/openvpn-ui
+# yyxx/openvpn:v1.1.7
+xbeeant/oo-chinese-unlimit:7.3.0.184
