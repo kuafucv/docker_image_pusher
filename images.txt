@@ -48,6 +48,7 @@
 # awalach/openvpn-web-ui
 # d3vilh/openvpn-ui
 # yyxx/openvpn:v1.1.7
-xbeeant/oo-chinese-unlimit:7.4.0.1
-xbeeant/oo-chinese-unlimit:7.5.1.1
-xbeeant/oo-chinese-unlimit:8.3.3
+# xbeeant/oo-chinese-unlimit:7.4.0.1
+# xbeeant/oo-chinese-unlimit:7.5.1.1
+# xbeeant/oo-chinese-unlimit:8.3.3
+clickhouse/clickhouse-server:25.4-alpine
