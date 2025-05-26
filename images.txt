@@ -53,7 +53,8 @@
 # xbeeant/oo-chinese-unlimit:8.3.3
 # clickhouse/clickhouse-server:25.4-alpine
 # clickhouse/clickhouse-server:22.12
-vesoft/nebula-metad:v3.8.0
-vesoft/nebula-storaged:v3.8.0
-vesoft/nebula-graphd:v3.8.0
-vesoft/nebula-console:v3.6.0
+# vesoft/nebula-metad:v3.8.0
+# vesoft/nebula-storaged:v3.8.0
+# vesoft/nebula-graphd:v3.8.0
+# vesoft/nebula-console:v3.6.0
+vesoft/nebula-graph-studio:v3.10.0
