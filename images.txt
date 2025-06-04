@@ -57,4 +57,5 @@
 # vesoft/nebula-storaged:v3.8.0
 # vesoft/nebula-graphd:v3.8.0
 # vesoft/nebula-console:v3.6.0
-vesoft/nebula-graph-studio:v3.10.0
+# vesoft/nebula-graph-studio:v3.10.0
+containerize/elastichd:latest
