@@ -59,4 +59,5 @@
 # vesoft/nebula-console:v3.6.0
 # vesoft/nebula-graph-studio:v3.10.0
 # containerize/elastichd:latest
-kibana:7.17.20
+# kibana:7.17.20
+searxng/searxng:latest
