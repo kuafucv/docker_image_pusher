@@ -60,4 +60,7 @@
 # vesoft/nebula-graph-studio:v3.10.0
 # containerize/elastichd:latest
 # kibana:7.17.20
-searxng/searxng:latest
+# searxng/searxng:latest
+node:22-alpine
+maven:3.9-eclipse-temurin-21
+mcr.microsoft.com/playwright:v1.52.0-noble
