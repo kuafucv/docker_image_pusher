@@ -64,4 +64,5 @@
 # node:22-alpine
 # maven:3.9-eclipse-temurin-21
 # mcr.microsoft.com/playwright:v1.52.0-noble
-eclipse-temurin:21-jre-alpine
+# eclipse-temurin:21-jre-alpine
+t8y2/dbx:0.5.15
