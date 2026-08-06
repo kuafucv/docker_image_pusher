@@ -66,4 +66,5 @@
 # mcr.microsoft.com/playwright:v1.52.0-noble
 # eclipse-temurin:21-jre-alpine
 # t8y2/dbx:0.5.15
-jackge12345/dbcheck:26.7.24.0
+# jackge12345/dbcheck:26.7.24.0
+nodered/node-red:4.1.13-22
